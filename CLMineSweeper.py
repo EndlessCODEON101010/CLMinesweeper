@@ -313,7 +313,7 @@ def Main(width, height, chanceMin, chanceMax, chanceGoal):
     # welcome screen
 
     print(colorize("""
-Command Line Minesweeper program made by EndlessCODEON101001
+Command Line Minesweeper program made by EndlessCODEON101010
 Licensed under MIT License          
 """, (110, 110, 110)))
 
